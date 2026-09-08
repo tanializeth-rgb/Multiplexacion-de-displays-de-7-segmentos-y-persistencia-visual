@@ -1,8 +1,8 @@
-# Proyecto de investigacion --- Lenguajes de interfaz 2026 "B" --- Grupo B (17:00)
-# Lista complementaria: 41 temas de investigación y rúbrica de 5 categorías
+## Proyecto de investigacion --- Lenguajes de interfaz 2026 "B" --- Grupo B (17:00)
+## Lista complementaria: 41 temas de investigación y rúbrica de 5 categorías
 
-# TecNM Campus Tijuana --- Ingeniería en Sistemas Computacionales (SCC-1014)
-#  Agosto 2026
+## TecNM Campus Tijuana --- Ingeniería en Sistemas Computacionales (SCC-1014)
+## Agosto 2026
 
 
 ## Multiplexación de displays de 7 segmentos y persistencia visual
@@ -13,7 +13,7 @@ La multiplexación de displays de 7 segmentos es una técnica utilizada    en el
 
 Un display de 7 segmentos está compuesto por siete elementos    luminosos, normalmente LED, que permiten representar números del 0 al    9 mediante diferentes combinaciones. Los segmentos se identifican       generalmente con las letras **a, b, c, d, e, f y g**.
 
-![Multiplexación de displays de 7 segmentos - cátodo común](https://controlautomaticoeducacion.com/wp-content/uploads/Catodo-comun-Multiplex.jpg)
+![Multiplexación de displays de 7 segmentos - cátodo común](https://controlautomaticoeducacion.com/wp-content/uploads/Anodo-Multiplex.png)
 
 Cuando se utilizan varios displays, controlar cada uno de manera independiente requiere una gran cantidad de conexiones. La multiplexación permite solucionar este problema compartiendo las líneas de los segmentos y activando los displays uno por uno a gran velocidad.
 
