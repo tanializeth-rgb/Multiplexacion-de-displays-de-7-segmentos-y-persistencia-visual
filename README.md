@@ -1,7 +1,7 @@
-## Proyecto de investigacion --- Lenguajes de interfaz 2026 "B" --- Grupo B (17:00)
-## Lista complementaria: 41 temas de investigación y rúbrica de 5 categorías
-## TecNM Campus Tijuana --- Ingeniería en Sistemas Computacionales (SCC-1014)##
-## Agosto 2026
+### Proyecto de investigación --- Lenguajes de interfaz 2026 "B" --- Grupo B (17:00)
+### Lista complementaria: 41 temas de investigación y rúbrica de 5 categorías
+### TecNM Campus Tijuana --- Ingeniería en Sistemas Computacionales (SCC-1014)
+### Agosto 2026
 
 
 ## Multiplexación de displays de 7 segmentos y persistencia visual
