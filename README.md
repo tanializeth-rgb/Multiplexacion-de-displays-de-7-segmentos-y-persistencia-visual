@@ -6,7 +6,6 @@
 ### Agosto 2026
 ### Multiplexación de displays de 7 segmentos y persistencia visual
 ## Tania Lizeth Tavera Alanis
-
 ## Introducción
 
 La multiplexación de displays de 7 segmentos es una técnica utilizada    en electrónica digital y sistemas embebidos para controlar varios displays utilizando una cantidad reducida de pines de un       microcontrolador. Esta técnica es muy común en proyectos con Arduino, microcontroladores y otros sistemas digitales donde se necesita       mostrar información numérica, como relojes, contadores, cronómetros, termómetros y marcadores.
